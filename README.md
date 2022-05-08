@@ -16,6 +16,7 @@ Developer: Buse Nur Karakaş <br/>
 Lime Go
 
 ## Ürün Açıklaması
+Lime Go, kurgusal bir ülkede geçen Jelly adında bir karakterin yıkılmış Lime'ların köyünü toparlaması ve düşmanlardan koruması gerekmektedir. Jelly, Lime'ları besler, farklı Lime türlerini köye toplar ve güçlenmelerini sağlar.
 
 ## Ürün Özellikleri 
 - Karakterin kullanacağı araçların özelliklerini görebilme  <br/>
@@ -52,15 +53,12 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 
 - **Sprint Review:** Alınan kararlar:
+- LIME GO bilgisayar oyunu olacak şekilde karar verilmiştir. <br/>
+- Sıngle Player ve açık dünya olmasına karar verilmiştir. <br/>
+- Tasarım ve modelleme süreçleri takım olarak yürütülecektir. Hazır asset kullanılmayacaktır ve süreç bir sonraki sprint'e de eklenmiştir. <br/>
+- Sprint Review Katılımcıları: Aycan Dağdelen, Yiğit Kağan Karagöz, Göktuğ Nadir Yıldız, Sultan Sena Acar <br/>
 
 - **Sprint Retrospective:** <br/>
-
-- Takım içindegörev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır. <br/>
-- Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı <br/>
--
-
-
-
-
-
--  
+   - 4 Ana konu olarak belirlenen (araştırma, tasarım, kod ve ses-müzik) çalışma alanlarına takım içindeki görev dağılımıyla ilgili düzenlemeler yapılması kararı alınmıştır. <br/>
+  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı <br/>
+  - Tasarım süreci hızlandırılması adına efor/saat arttırılmalı <br/>
