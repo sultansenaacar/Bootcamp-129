@@ -1,4 +1,4 @@
-# Bootcamp-129
+# Bootcamp UNITY-129
 
 # TAKIM İSMİ 
 Say Bug
@@ -38,8 +38,8 @@ Lime Go, kurgusal bir ülkede geçen Jelly adında bir karakterin yıkılmış L
 # SPRINT 1 
 
 - **Sprint Notları:** User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir. <br/>
-- **Sprint içinde tamamlanması tahmin edilen puan:** 100 <br/>
-- **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.<br/>
+- **Sprint içinde tamamlanması tahmin edilen puan:** 120 <br/>
+- **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 120 ile başlaması gerektiğine karar verildi.<br/>
 
 - **Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. <br/>
 
