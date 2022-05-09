@@ -55,7 +55,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
  
 - **Sprint Review:** Alınan kararlar:
 - LIME GO bilgisayar oyunu olacak şekilde karar verilmiştir. <br/>
-- Sıngle Player ve açık dünya olmasına karar verilmiştir. <br/>
+- Single Player ve açık dünya olmasına karar verilmiştir. <br/>
 - Tasarım ve modelleme süreçleri takım olarak yürütülecektir. Hazır asset kullanılmayacaktır ve süreç bir sonraki sprint'e de eklenmiştir. <br/>
 - Sprint Review Katılımcıları: Aycan Dağdelen, Yiğit Kağan Karagöz, Göktuğ Nadir Yıldız, Sultan Sena Acar <br/>
 
