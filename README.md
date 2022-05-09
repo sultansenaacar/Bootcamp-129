@@ -1,6 +1,6 @@
 # Bootcamp UNITY-129
 
-# TAKIM İSMİ 
+# Takım İsmi 
 Say Bug
 
 # Ürün İle İlgili Bilgiler
@@ -16,7 +16,7 @@ Developer: Buse Nur Karakaş <br/>
 Lime Go
 
 ## Ürün Açıklaması
-Lime Go, kurgusal bir ülkede geçen Jelly adında bir karakterin yıkılmış Lime'ların köyünü toparlaması ve düşmanlardan koruması gerekmektedir. Jelly, Lime'ları besler, farklı Lime türlerini köye toplar ve güçlenmelerini sağlar.
+- Lime Go, kurgusal bir ülkede geçen Jelly adında bir karakterin yıkılmış Lime'ların köyünü toparlaması ve düşmanlardan koruması gerekmektedir. Jelly, Lime'ları besler, farklı Lime türlerini köye toplar ve güçlenmelerini sağlar.
 
 ## Ürün Özellikleri 
 - Karakterin kullanacağı araçların özelliklerini görebilme  <br/>
@@ -45,13 +45,14 @@ Lime Go, kurgusal bir ülkede geçen Jelly adında bir karakterin yıkılmış L
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir. <br/>
 
-- **Daily Scrum:** Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]()
+- **Daily Scrum:** Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/sultansenaacar/Bootcamp-129/blob/main/DailyScrum/DAILY%20SCRUM%20SCREENSHOTS%201.docx)
 - **Sprint board update:** Sprint board screenshotları: <br/>
-![Sprint board screenshot1](
+![Sprint board screenshot1](https://github.com/sultansenaacar/Bootcamp-129/blob/main/1.%20SPRINT%20BOARD/1.%20SPRINT%20BOARD%20-%201.png)  <br/>
+![Sprint board screenshot2](https://github.com/sultansenaacar/Bootcamp-129/blob/main/1.%20SPRINT%20BOARD/1.SPRINT%20BOARD%20-%202%20(UPDATE).png)
+![Sprint board screenshot3](https://github.com/sultansenaacar/Bootcamp-129/blob/main/1.%20SPRINT%20BOARD/1.%20SPRINT%20BOARD%20-%203%20(UPDATE).png)
 
-- **Ürün Durumu:** Ekran görüntüleri: <br/>
-
-
+- **Ürün Durumu:** Ekran görüntüleri: Tasarım ve modelleme süreci devam etmektedir. Kodlar ile modeller 1.sprint dahilinde birleştirilmediğinden görsel eklenmemiştir. <br/>
+ 
 - **Sprint Review:** Alınan kararlar:
 - LIME GO bilgisayar oyunu olacak şekilde karar verilmiştir. <br/>
 - Sıngle Player ve açık dünya olmasına karar verilmiştir. <br/>
