@@ -33,7 +33,7 @@ Lime Go, kurgusal bir ülkede geçen Jelly adında bir karakterin yıkılmış L
 - Steam kullanıcıları  <br/>
 
 ## Product Backlog URL
-[Miro Backlog Board](https://miro.com/app/board/uXjVO6fjKCA=/)
+[Miro Backlog Board](https://miro.com/app/board/uXjVO6fjKCA=/?moveToWidget=3458764524893913298&cot=14)
 
 # SPRINT 1 
 
