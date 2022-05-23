@@ -52,7 +52,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Sprint board screenshot3](https://github.com/sultansenaacar/Bootcamp-129/blob/main/1.%20SPRINT%20BOARD/1.%20SPRINT%20BOARD%20-%203%20(UPDATE).png)
 
 - **Ürün Durumu:** Ekran görüntüleri: Tasarım ve modelleme süreci devam etmektedir. Kodlar ile modeller 1.sprint dahilinde birleştirilmediğinden görsel eklenmemiştir. <br/>
- 
+
 - **Sprint Review:** Alınan kararlar:
 - LIME GO bilgisayar oyunu olacak şekilde karar verilmiştir. <br/>
 - Single Player ve açık dünya olmasına karar verilmiştir. <br/>
@@ -82,11 +82,14 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Sprint board screenshot3](https://github.com/sultansenaacar/Bootcamp-129/blob/main/2.Sprint/3.sprint_board_3.png)
 
 - **Ürün Durumu:** Ekran görüntüleri: <br/>
+![Sprint board screenshot3](https://github.com/sultansenaacar/Bootcamp-129/blob/main/2.Sprint/Ekran_Goruntusu.png) <br/>
+![Sprint board screenshot3](https://github.com/sultansenaacar/Bootcamp-129/blob/main/2.Sprint/Ekran_Goruntusu_2.png) 
+ 
  
 - **Sprint Review:** Alınan kararlar:
-- 3D bilgisayar oyunu olarak karar verilen LIME GO, 2D bilgisayar oyunu olmasına karar verilmiştir.<br/>
-- LIME GO senaryo kapsamının daraltılmasına karar verilmiştir.<br/>
-- Sprint Review Katılımcıları: Aycan Dağdelen, Yiğit Kağan Karagöz, Göktuğ Nadir Yıldız, Sultan Sena Acar<br/>
+  - 3D bilgisayar oyunu olarak karar verilen LIME GO, 2D bilgisayar oyunu olmasına karar verilmiştir.<br/>
+  - LIME GO senaryo kapsamının daraltılmasına karar verilmiştir.<br/>
+  - Sprint Review Katılımcıları: Aycan Dağdelen, Yiğit Kağan Karagöz, Göktuğ Nadir Yıldız, Sultan Sena Acar<br/>
 
 - **Sprint Retrospective:** <br/>
    - Tasarım süreci hızlandırılması adına efor/saat arttırılmalı.
