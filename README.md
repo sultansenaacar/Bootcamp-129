@@ -63,3 +63,32 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
    - 4 Ana konu olarak belirlenen (araştırma, tasarım, kod ve ses-müzik) çalışma alanlarına takım içindeki görev dağılımıyla ilgili düzenlemeler yapılması kararı alınmıştır. <br/>
   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı <br/>
   - Tasarım süreci hızlandırılması adına efor/saat arttırılmalı <br/>
+<br/>
+
+# SPRINT 2 
+
+- **Sprint Notları:** User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir. <br/>
+- **Sprint içinde tamamlanması tahmin edilen puan:** 140 <br/>
+- **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde 2. sprint'in en azından 140 ile olması gerektiğine karar verildi.<br/>
+
+- **Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. <br/>
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir. <br/>
+
+- **Daily Scrum:** Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/sultansenaacar/Bootcamp-129/blob/main/2.Sprint/Daily_Scrum_ScreenShot_2.sprint.docx)
+- **Sprint board update:** Sprint board screenshotları: <br/>
+![Sprint board screenshot1](https://github.com/sultansenaacar/Bootcamp-129/blob/main/2.Sprint/2.sprint_board_1.png)  <br/>
+![Sprint board screenshot2](https://github.com/sultansenaacar/Bootcamp-129/blob/main/2.Sprint/2.sprint_board_2.png)
+![Sprint board screenshot3](https://github.com/sultansenaacar/Bootcamp-129/blob/main/2.Sprint/3.sprint_board_3.png)
+
+- **Ürün Durumu:** Ekran görüntüleri: <br/>
+ 
+- **Sprint Review:** Alınan kararlar:
+- 3D bilgisayar oyunu olarak karar verilen LIME GO, 2D bilgisayar oyunu olmasına karar verilmiştir.<br/>
+- LIME GO senaryo kapsamının daraltılmasına karar verilmiştir.<br/>
+- Sprint Review Katılımcıları: Aycan Dağdelen, Yiğit Kağan Karagöz, Göktuğ Nadir Yıldız, Sultan Sena Acar<br/>
+
+- **Sprint Retrospective:** <br/>
+   - Tasarım süreci hızlandırılması adına efor/saat arttırılmalı.
+   - Kodlama süreci hızlandırılması adına efor/saat arttırılması.
+   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı.
